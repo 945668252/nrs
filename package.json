@@ -1,6 +1,6 @@
 {
-    "name": "nrm-xiecr",
-    "version": "1.5.1",
+    "name": "nrs-xiecr",
+    "version": "1.0.0",
     "description": "nrs",
     "main": "index.js",
     "scripts": {
