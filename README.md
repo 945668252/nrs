@@ -30,7 +30,14 @@
 
 安装建议加上-g
 
-npm i nrm-xiecr -g
+npm i nrs-xiecr -g
+或者
+npm install 
+npm link  
+  如果你想在本地直接测试 CLI 命令
+  这会将 nrs 命令注册到你的系统中，之后你可以直接使用它。
+nrs use
+  正常使用
 ##### nrs ls 查看目前源
 
 * npm-------  https://registry.npmjs.org/
